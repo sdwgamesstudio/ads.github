@@ -13,7 +13,7 @@ openx.com, 540838151, RESELLER, 6a698e2ec38604c6
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 algorix.co, 54616, RESELLER
-algorix.co, 60016  , RESELLER
+algorix.co, 60016, RESELLER
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 velismedia.com, 725, RESELLER

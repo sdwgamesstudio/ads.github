@@ -133,3 +133,9 @@ pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 170071695, RESELLER
+pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+Xapads.com, 117219, RESELLER
+Pubmatic.com, 157704, RESELLER, 5d62403b186f2ace
+facebook.com, 819915752590337, RESELLER, c3e20eee3f780d68
